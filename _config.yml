@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               算法
-tagline:             算法
+title:               每周一题
+tagline:             下面是一道算法题，需要各位都练练手。。下周一之前统一提交到github
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
